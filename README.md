@@ -1,1 +1,1 @@
-# resizeImage
+#Custom Script that takes images of most formats, removes background gibberish(for instance grey background), resizes the image to 500x500 for the actual content of the image, adds a 1000x1000x white border for the image and converts it to webp image.
